@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b867a3a8-5e5d-43b3-85fa-08a7e33138f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StudentMarks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/basicJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vikash/learningjunit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hmapimp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueWordCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +27,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2yZeCJxlPAcqmXcJarPpMCTnlPa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -49,12 +38,13 @@
   "keyToString": {
     "Application.SimpleCalculator.executor": "Run",
     "Application.StudentMarks.executor": "Run",
+    "Application.UniqueWordCounter.executor": "Run",
     "Application.basicJ.executor": "Run",
     "Application.factorial.executor": "Debug",
     "Application.hmapimp.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
