@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b867a3a8-5e5d-43b3-85fa-08a7e33138f7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/UniqueWordCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MultithreadingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Synchronized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +40,7 @@
   "keyToString": {
     "Application.SimpleCalculator.executor": "Run",
     "Application.StudentMarks.executor": "Run",
+    "Application.Synchronized.executor": "Run",
     "Application.UniqueWordCounter.executor": "Run",
     "Application.basicJ.executor": "Run",
     "Application.factorial.executor": "Debug",
@@ -45,9 +48,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "V:/Acad/java/java multithreading"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="V:\Acad\java\java multithreading" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="basicJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="basicJ" />
